@@ -45,6 +45,24 @@ Motives depend on the attacker's state of mind, their reason for carrying out su
 - Take revenge
 ---
 ## Classifications of Attacks
+According to Information Assurance Technical Framework, security attack are classified info 5 categories.
+
+1. Passive Attacks
+   - Intercepting and monitoring network traffic
+   - Do not tamper with the data
+   - Difficult to detect - no active interaction with target system
+   - Capture data being transmitted in the network without consent of user
+
+   Attacker obtain information such as unencrypted data in transit, clear-text credentials, or other sensitive information that is useful in performing active attacks.
+
+   Ex: Footprinting, Sniffing and eavesdropping, Network traffic analysis, Decryption weakly encrypted traffic
+
+2. Active Attacks
+3. Close-In Attacks
+4. Insider Attacks
+5. Distribution Attacks
+   
+## Information Warfare
 > Information Warfare -"Use of information and communication technologies for competitive advantages over an opponent"
 
 Ex: viruses, worms, Trojan horses, logic bombs, trap doors, nanomachines, microbes, electronic jamming, penetration exploits and tools.
@@ -56,4 +74,3 @@ Ex: viruses, worms, Trojan horses, logic bombs, trap doors, nanomachines, microb
 5. Hacker Warfare
 6. Ecconomic Warfare
 7. Cyberwarfare
-## Information Warfare
